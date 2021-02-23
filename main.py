@@ -1,2 +1,1 @@
-'Hello world'
-'I live in Osh'
+next next next
